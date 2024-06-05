@@ -2,7 +2,7 @@ function FC_image = ccat_cal_Sp(InputPath, OutputPath, ROIPath, TR, Slices)
 % %------------------------------------------------------------------------
 % % This is the processing pipline of STN coordinates converting
 % %------------------------------------------------------------------------
-% % Revised by Yang Qiao and Na Zhao on July 28, 2021
+% % Revised by Yang Qiao and Na Zhao on July 28, 2023
 % % E-mail: joe16.psyc@foxmail.com
 
 rawPath = get(InputPath, 'string');
